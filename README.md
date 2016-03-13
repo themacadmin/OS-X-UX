@@ -1,4 +1,4 @@
-# OS-X-UX
+# OS X UX
 Non-settings user experience items
 
 ## openUrlAsUser.bash
